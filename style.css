@@ -38,6 +38,19 @@ html, body {
 	color: #E1EFE9;
 	line-height: 70%;
 }
+.content h3 {
+	font-family: 'Montserrat', sans serif;
+	font-size: 135%;
+	font-weight: 400;
+	color: #3A6168;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 20px;
+	transition: all 0.5s;
+}
+.content h3:hover{
+	color: #CBDFD6;
+}
 .btn{
 	font-family: 'Montserrat', sans serif;
 	font-size: 135%;
