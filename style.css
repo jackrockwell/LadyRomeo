@@ -67,6 +67,17 @@ html, body {
 	color: #CBDFD6;
 	border: solid #CBDFD6 2px;
 }
+
+.menu {
+	 font-family: 'Yantramanav', sans-serif;
+	text-decoration: none;
+	transition: all 0.5s;
+}
+
+.menu:hover {
+	color: #CBDFD6;
+	border: solid #CBDFD6 2px; 
+}
 p{
 	font-size: 150%;
 	line-height: 120%;
