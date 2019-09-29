@@ -77,7 +77,7 @@ html, body {
 
 .menu:hover {
 	color: #CBDFD6;
-	border: solid #CBDFD6 2px; 
+	border-bottom: 1px solid #bbc3cc;
 }
 p{
 	font-size: 150%;
