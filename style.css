@@ -66,6 +66,7 @@ html, body {
 .btn:hover {
 	color: #CBDFD6;
 	border: solid #CBDFD6 2px;
+	border-left: 0;
 }
 
 .menu {
