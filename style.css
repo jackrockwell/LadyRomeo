@@ -94,7 +94,9 @@ p{
 	font-family: sans-serif;
 }
 
-
+.form {
+	max-width: 600px;
+}
 
 
 
