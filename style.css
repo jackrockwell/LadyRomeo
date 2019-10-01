@@ -69,7 +69,9 @@ html, body {
 
 .homebtn {
 	float:left;
-	postion: relative;
+	postion: absolute;
+	right: 10px;
+	top: 5px;
 	font-family: 'Montserrat', sans serif;
 	font-size: 90%;
 	font-weight: 400;
