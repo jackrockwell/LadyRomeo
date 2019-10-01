@@ -69,7 +69,6 @@ html, body {
 
 .homebtn {
 	float:left;
-	postion: absolute;
 	right: 10px;
 	top: 5px;
 	font-family: 'Montserrat', sans serif;
