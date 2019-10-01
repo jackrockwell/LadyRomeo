@@ -57,7 +57,8 @@ html, body {
 }
 
 .menu {
-	 font-family: 'Yantramanav', sans-serif;
+	border:none;
+	font-family: 'Yantramanav', sans-serif;
 	text-decoration: none;
 	transition: all 0.5s;
 }
