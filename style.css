@@ -68,6 +68,8 @@ html, body {
 }
 
 .homebtn {
+	float:left;
+	postion: relative;
 	font-family: 'Montserrat', sans serif;
 	font-size: 90%;
 	font-weight: 400;
