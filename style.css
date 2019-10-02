@@ -95,8 +95,9 @@ p{
 }
 
 .form {
-	max-width: 600px;
-	padding: 10px 20px;
+	position:fixed; 
+	left:80px; 
+	top:30px;
 }
 
 
