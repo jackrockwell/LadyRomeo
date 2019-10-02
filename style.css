@@ -97,7 +97,8 @@ p{
 .form {
 	position:fixed; 
 	left:80px; 
-	top:30px;
+	top:50px;
+	text-align: center;
 }
 
 
