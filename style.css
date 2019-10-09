@@ -96,7 +96,8 @@ p{
 
 .form {
 	position:fixed; 
-	left:80px; 
+	left:50px;
+	right: 50px;
 	top:50px;
 	vertical-align: middle;
 }
