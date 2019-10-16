@@ -102,6 +102,30 @@ p{
 	vertical-align: middle;
 }
 
+.introus{
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	background: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260) no-repeat 50% 50%;
+	display: table;
+	top: 0;
+	background-size: cover;
+}
+
+.intro .innerus{
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	max-width: none;
+}
+
+.contentus {
+	max-width: 600px;
+	margin; 0 auto;
+	text-align: center;
+	padding-bottom: 28%;
+}
+
 
 
 
