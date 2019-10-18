@@ -90,7 +90,7 @@ html, body {
 
 p{
 	font-family: 'Yantramanav', sans-serif;
-	font-size: 80%;
+	font-size: 150%;
 	font-weight: 150;
 	color: #E1EFE9;
 	line-height: 70%;
@@ -122,10 +122,18 @@ p{
 }
 
 .contentus {
+	
 	max-width: 600px;
 	margin; 0 auto;
 	text-align: center;
 	padding-bottom: 28%;
+}
+
+.contentus h2 {
+	font-family: 'Montserrat', sans serif;
+	font-size: 200%;
+	font-weight: 150;
+	color: #E1EFE9;
 }
 
 
