@@ -91,9 +91,9 @@ html, body {
 p{
 	font-family: 'Yantramanav', sans-serif;
 	font-size: 150%;
-	font-weight: 150;
+	font-weight: 250;
 	color: #E1EFE9;
-	line-height: 70%;
+	line-height: 100%;
 }
 
 .form {
