@@ -89,9 +89,11 @@ html, body {
 }
 
 p{
-	font-size: 150%;
-	line-height: 120%;
-	font-family: sans-serif;
+	font-family: 'Yantramanav', sans-serif;
+	font-size: 80%;
+	font-weight: 150;
+	color: #E1EFE9;
+	line-height: 70%;
 }
 
 .form {
